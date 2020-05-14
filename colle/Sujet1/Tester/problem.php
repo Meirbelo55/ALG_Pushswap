@@ -1,0 +1,15 @@
+<?php
+$tests = [
+    ["9","razzar","pop","nuicsk","razzar","tdtoqglzbv","erre","isuuzixo","ogejnxun","radar"],
+    ["25","solos","ggfebxb","sdhswky","surrus","mhzmussk","erre","qrygsvas","surrus","radar","hrtvbqb","jbgrz","lol","lol","nnamfh","kayak","atigqz","qvpzdaos","radar","ses","razzar","tot","anona","ckkodcp","ses","psndoktk"],    
+    ["71","szzzoq","nrkduxu","ama","tot","pop","qbyeuv","purxmg","vrwaeu","tot","xvrxfcz","kook","nutun","kayak","ses","podgfly","cgozq","poop","ybakikmjo","erre","cqtrfpjx","goejdg","qdscqvqp","yurlm","spqfoxt","gvgtes","lol","usxsqi","dwoorqm","ridvnf","solos","repiper","ofhfiz","poop","wkwqei","gmdaqv","awkxm","zvatbgjl","tfzewteul","ihuhp","xjywv","pop","qpykcj","fnowdqb","ziqwhxl","radar","rzabwwkz","tot","tot","solos","qeuifx","ses","sas","dhgfcdt","surrus","anona","gndilmm","lohjjxid","xirwygys","lol","xrsezj","sbasshb","ama","anona","qhkqisoui","kldtcn","anona","spdknfk","erre","surrus","apaspz","dhlvwl"],    
+    ["36","rnqrdc","cwpqibsmu","kook","razzar","imscbhuua","nutun","dylvxvr","kayak","radar","ama","hokhg","pop","anona","qscvcn","mmyjwa","kook","qpmye","eihcz","otmpytst","ubziqxv","dohdxz","qlildcptp","razzar","rptjbjgt","surrus","repiper","kbjmzvtlu","ses","xwbxrzq","radar","qdmxuzx","ctgca","ses","razzar","mhqkl","kook"],    
+    ["3","sas","eddes","surrus"],    
+    ["1","anona"],    
+    ["2","kayak","elle"],    
+    ["39","kayak","jmwnfa","repiper","kook","ses","erre","lvdknz","repiper","anona","tot","quujl","uxyrbl","radar","nutun","sas","ddcyypf","solos","kook","tegopyl","szvvxivie","poop","erre","catggdpw","hlwtxt","kayak","surrus","xalkhar","erre","lol","radar","whzllqeqn","radar","gxvuzgb","surrus","radar","solos","lol","sas","pigkqnsu"],    
+    ["4","pfcikht","ama","surrus","ses"],    
+    ["35","tot","solos","ama","razzar","txuwcw","pagdpuv","gueazgoo","bbrbo","gbvsf","lol","ytcdjgfdi","pop","wwhtmyidz","nutun","kayak","hzbowo","sgvhlo","radar","nutun","ses","rxfuyrh","faiosw","gthnmh","ama","atigd","repiper","surrus","nutun","lol","uxrxd","lzdfvyn","lol","dkulmt","smhnifb","yrjila"],    
+    ["49","aurlg","dsdflhkc","anona","radar","cbftcp","ses","radar","razzar","exvuyo","ses","nutun","mxatchc","papoybiy","surrus","ses","kook","nutun","sas","tot","tot","zumiu","vyevzhmk","ama","qkpgmz","nutun","razzar","nwpyfcx","jukufo","repiper","poop","pop","ipojjl","razzar","erre","ukqvb","yqoizet","ehxyzy","mbhezpca","anona","nutun","wgxvbxg","cwvlql","otugmdo","zgzaptb","anona","tot","radar","pzsnbpapx","solos"],    
+    ["49","radar","whiluf","qqqmib","repiper","mszwvlv","hfsuhz","vmqzj","radar","duwdrb","nutun","nutun","ozvdmbjde","razzar","ses","razzar","kayak","pop","erre","erre","lol","trhphbpjf","vsuiity","lhodpv","oztnuz","repiper","slkcpbgf","repiper","kayak","poop","qkqhkuu","radfh","hnvslx","sas","lskpdarxm","erre","nutun","xzfoemz","psumjp","kook","mtcyaesq","cvthw","kook","surrus","zdszc","ama","zclaar","itddrx","nutun","bckai"]
+];

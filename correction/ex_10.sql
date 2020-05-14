@@ -1,0 +1,1 @@
+select distinct sum(annee_prod) as "Somme des annees de production" from film;

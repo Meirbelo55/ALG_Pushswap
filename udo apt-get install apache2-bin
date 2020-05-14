@@ -1,0 +1,657 @@
+-- Logs begin at Tue 2019-06-11 02:00:11 CEST, end at Tue 2020-04-21 13:54:20 CEST. --
+janv. 14 12:23:35 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 14 12:23:35 meir-900X5T apachectl[30105]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 14 12:23:35 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 15 14:06:59 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 15 14:06:59 meir-900X5T apachectl[24394]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 15 14:06:59 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 16 13:07:03 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 16 13:07:03 meir-900X5T apachectl[6804]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 16 13:07:03 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 17 15:08:07 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 17 15:08:07 meir-900X5T apachectl[10657]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 17 15:08:07 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 18 19:34:29 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 18 19:34:29 meir-900X5T apachectl[901]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 18 19:34:29 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 18 19:39:28 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 18 19:39:28 meir-900X5T apachectl[3374]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 18 19:39:28 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 18 23:54:06 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 18 23:54:06 meir-900X5T apachectl[28350]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 18 23:54:06 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 19 00:06:13 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 19 00:06:13 meir-900X5T apachectl[30040]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 19 00:06:14 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 19 03:09:35 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 19 03:09:35 meir-900X5T apachectl[16755]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 19 03:09:35 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 20 12:07:57 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 20 12:07:57 meir-900X5T apachectl[24865]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 20 12:07:57 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 20 17:10:23 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 20 17:10:23 meir-900X5T apachectl[7744]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 20 17:10:23 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 20 17:10:23 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 20 17:10:23 meir-900X5T apachectl[7749]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 20 17:10:23 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 21 13:06:13 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 21 13:06:13 meir-900X5T apachectl[25576]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 21 13:06:13 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 21 19:05:47 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 21 19:05:47 meir-900X5T apachectl[32709]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 21 19:05:47 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 21 19:06:05 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 21 19:06:05 meir-900X5T apachectl[875]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 21 19:06:05 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 22 10:07:02 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 22 10:07:02 meir-900X5T apachectl[6347]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 22 10:07:02 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 22 13:07:41 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 22 13:07:41 meir-900X5T apachectl[16258]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 22 13:07:42 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 22 13:09:28 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 22 13:09:28 meir-900X5T apachectl[934]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 22 13:09:28 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 22 17:26:44 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 22 17:26:44 meir-900X5T apachectl[12059]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 22 17:26:44 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 22 17:27:04 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 22 17:27:04 meir-900X5T apachectl[908]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 22 17:27:04 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 23 19:07:37 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 23 19:07:37 meir-900X5T apachectl[17095]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 23 19:07:37 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 24 14:08:37 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 24 14:08:37 meir-900X5T apachectl[23694]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 24 14:08:37 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 27 10:42:31 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 10:42:31 meir-900X5T apachectl[3357]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 10:42:31 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 27 10:43:07 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 10:43:07 meir-900X5T apachectl[4193]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 10:43:07 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 27 10:43:55 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 27 10:43:55 meir-900X5T apachectl[16381]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 10:43:55 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 27 10:43:56 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 27 10:43:56 meir-900X5T apachectl[16443]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 10:43:56 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 27 11:07:13 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 11:07:13 meir-900X5T apachectl[18587]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:07:13 meir-900X5T apachectl[18587]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:07:13 meir-900X5T apachectl[18587]: Action 'stop' failed.
+janv. 27 11:07:13 meir-900X5T apachectl[18587]: The Apache error log may have more information.
+janv. 27 11:07:13 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:07:13 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:07:13 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 27 11:07:13 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:07:13 meir-900X5T apachectl[18592]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:07:13 meir-900X5T apachectl[18592]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:07:13 meir-900X5T apachectl[18592]: Action 'start' failed.
+janv. 27 11:07:13 meir-900X5T apachectl[18592]: The Apache error log may have more information.
+janv. 27 11:07:13 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:07:13 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:07:13 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:07:39 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:07:40 meir-900X5T apachectl[18627]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:07:40 meir-900X5T apachectl[18627]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:07:40 meir-900X5T apachectl[18627]: Action 'start' failed.
+janv. 27 11:07:40 meir-900X5T apachectl[18627]: The Apache error log may have more information.
+janv. 27 11:07:40 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:07:40 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:07:40 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:10:31 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:10:31 meir-900X5T apachectl[19542]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:10:31 meir-900X5T apachectl[19542]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:10:31 meir-900X5T apachectl[19542]: Action 'start' failed.
+janv. 27 11:10:31 meir-900X5T apachectl[19542]: The Apache error log may have more information.
+janv. 27 11:10:31 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:10:31 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:10:31 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:11:19 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:11:19 meir-900X5T apachectl[19594]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:11:19 meir-900X5T apachectl[19594]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:11:19 meir-900X5T apachectl[19594]: Action 'start' failed.
+janv. 27 11:11:19 meir-900X5T apachectl[19594]: The Apache error log may have more information.
+janv. 27 11:11:19 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:11:19 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:11:19 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:11:44 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:11:44 meir-900X5T apachectl[19612]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:11:44 meir-900X5T apachectl[19612]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:11:44 meir-900X5T apachectl[19612]: Action 'start' failed.
+janv. 27 11:11:44 meir-900X5T apachectl[19612]: The Apache error log may have more information.
+janv. 27 11:11:44 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:11:44 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:11:44 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+[0;1;39m-- Reboot --[0m
+janv. 27 11:12:29 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:12:29 meir-900X5T apachectl[915]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:12:29 meir-900X5T apachectl[915]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:12:29 meir-900X5T apachectl[915]: Action 'start' failed.
+janv. 27 11:12:29 meir-900X5T apachectl[915]: The Apache error log may have more information.
+janv. 27 11:12:29 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:12:29 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:12:29 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:13:36 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:13:36 meir-900X5T apachectl[1916]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:13:36 meir-900X5T apachectl[1916]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:13:36 meir-900X5T apachectl[1916]: Action 'start' failed.
+janv. 27 11:13:36 meir-900X5T apachectl[1916]: The Apache error log may have more information.
+janv. 27 11:13:38 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:13:38 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:13:38 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:14:37 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:14:37 meir-900X5T apachectl[2049]: AH00526: Syntax error on line 12 of /etc/apache2/sites-enabled/000-default.conf:
+janv. 27 11:14:37 meir-900X5T apachectl[2049]: DocumentRoot takes one argument, Root directory of the document tree
+janv. 27 11:14:37 meir-900X5T apachectl[2049]: Action 'start' failed.
+janv. 27 11:14:37 meir-900X5T apachectl[2049]: The Apache error log may have more information.
+janv. 27 11:14:37 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m
+janv. 27 11:14:37 meir-900X5T systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m
+janv. 27 11:14:37 meir-900X5T systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m
+janv. 27 11:16:00 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:16:00 meir-900X5T apachectl[2362]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:16:00 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 27 11:16:36 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 11:16:36 meir-900X5T apachectl[2429]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:16:36 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 27 11:16:36 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:16:36 meir-900X5T apachectl[2434]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:16:36 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 27 11:16:46 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 11:16:46 meir-900X5T apachectl[2449]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:16:46 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 27 11:16:52 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:16:52 meir-900X5T apachectl[2458]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:16:52 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 27 11:17:50 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 11:17:50 meir-900X5T apachectl[2538]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:17:50 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+janv. 27 11:17:55 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 11:17:55 meir-900X5T apachectl[2549]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 11:17:55 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 27 13:06:37 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 27 13:06:37 meir-900X5T apachectl[5794]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 13:06:37 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 27 13:12:43 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 27 13:12:43 meir-900X5T apachectl[7327]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 13:12:43 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 27 13:13:17 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 27 13:13:17 meir-900X5T apachectl[910]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 27 13:13:17 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 28 15:42:49 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 28 15:42:49 meir-900X5T apachectl[20503]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 28 15:42:49 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 30 09:51:32 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+janv. 30 09:51:32 meir-900X5T apachectl[8869]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 30 09:51:32 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+janv. 30 09:51:52 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+janv. 30 09:51:52 meir-900X5T apachectl[925]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 30 09:51:52 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+janv. 30 11:11:52 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 30 11:11:52 meir-900X5T apachectl[4114]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 30 11:11:52 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+janv. 31 10:09:25 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+janv. 31 10:09:25 meir-900X5T apachectl[24327]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+janv. 31 10:09:25 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 01 22:58:00 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 01 22:58:00 meir-900X5T apachectl[5919]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 01 22:58:00 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 02 13:09:30 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 02 13:09:31 meir-900X5T apachectl[13218]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 02 13:09:31 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 03 12:06:29 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 03 12:06:29 meir-900X5T apachectl[30818]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 03 12:06:29 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 04 11:40:51 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 04 11:40:51 meir-900X5T apachectl[10065]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 04 11:40:51 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+févr. 04 11:40:51 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 04 11:40:51 meir-900X5T apachectl[10070]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 04 11:40:51 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 04 13:17:47 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 04 13:17:47 meir-900X5T apachectl[12664]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 04 13:17:47 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 04 17:51:52 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 04 17:51:53 meir-900X5T apachectl[26331]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 04 17:51:53 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+févr. 04 17:51:53 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 04 17:51:53 meir-900X5T apachectl[26336]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 04 17:51:53 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 05 10:08:58 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 05 10:08:58 meir-900X5T apachectl[13291]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 05 10:08:58 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 06 12:06:27 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 06 12:06:27 meir-900X5T apachectl[26036]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 06 12:06:27 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 06 14:10:17 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 06 14:10:17 meir-900X5T apachectl[1414]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 06 14:10:18 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 06 17:09:23 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 06 17:09:23 meir-900X5T apachectl[966]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 06 17:09:23 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 06 19:55:14 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 06 19:55:14 meir-900X5T apachectl[5195]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 06 19:55:14 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 06 21:10:37 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 06 21:10:37 meir-900X5T apachectl[877]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 06 21:10:37 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 07 00:36:50 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 07 00:36:50 meir-900X5T apachectl[5046]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 07 00:36:51 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 07 08:19:46 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 07 08:19:46 meir-900X5T apachectl[967]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 07 08:19:46 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 07 09:09:40 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 07 09:09:40 meir-900X5T apachectl[4251]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 07 09:09:40 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 09 15:05:12 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 09 15:05:12 meir-900X5T apachectl[14958]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 09 15:05:13 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 09 17:18:01 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 09 17:18:01 meir-900X5T apachectl[912]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 09 17:18:01 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 09 19:31:29 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 09 19:31:29 meir-900X5T apachectl[3453]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 09 19:31:29 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 10 00:36:25 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 10 00:36:26 meir-900X5T apachectl[6495]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 00:36:26 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 10 09:07:24 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 10 09:07:24 meir-900X5T apachectl[965]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 09:07:24 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 10 14:05:10 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 10 14:05:10 meir-900X5T apachectl[9606]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 14:05:10 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 10 14:19:32 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 10 14:19:33 meir-900X5T apachectl[10096]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 14:19:33 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 10 14:19:48 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 10 14:19:48 meir-900X5T apachectl[837]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 14:19:48 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 10 17:06:30 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 10 17:06:30 meir-900X5T apachectl[5161]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 10 17:06:30 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 11 08:40:57 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 11 08:40:57 meir-900X5T apachectl[833]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 11 08:40:57 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 11 16:07:52 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 11 16:07:52 meir-900X5T apachectl[10289]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 11 16:07:52 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 12 12:07:46 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 12 12:07:46 meir-900X5T apachectl[16877]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 12 12:07:46 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 13 10:09:12 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 13 10:09:12 meir-900X5T apachectl[24868]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 13 10:09:12 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 14 09:32:32 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 14 09:32:32 meir-900X5T apachectl[32091]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 09:32:32 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 14 09:32:47 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 14 09:32:47 meir-900X5T apachectl[825]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 09:32:47 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 14 09:49:34 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 14 09:49:34 meir-900X5T apachectl[1642]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 09:49:34 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 14 09:57:33 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 14 09:57:33 meir-900X5T apachectl[914]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 09:57:33 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 14 14:06:43 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 14 14:06:43 meir-900X5T apachectl[6854]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 14:06:43 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 14 15:44:09 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 14 15:44:09 meir-900X5T apachectl[8503]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 15:44:09 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 14 15:44:25 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 14 15:44:25 meir-900X5T apachectl[830]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 15:44:25 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 14 15:45:02 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 14 15:45:02 meir-900X5T apachectl[1415]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 14 15:45:02 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 15 19:13:29 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 15 19:13:29 meir-900X5T apachectl[985]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 15 19:13:29 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 16 12:06:38 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 16 12:06:38 meir-900X5T apachectl[7967]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 16 12:06:38 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 17 01:15:18 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 17 01:15:18 meir-900X5T apachectl[16469]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 17 01:15:19 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 17 10:17:45 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 17 10:17:45 meir-900X5T apachectl[907]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 17 10:17:45 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 17 12:08:03 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 17 12:08:03 meir-900X5T apachectl[5906]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 17 12:08:03 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 18 12:07:19 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 18 12:07:19 meir-900X5T apachectl[21411]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 18 12:07:19 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 18 19:04:54 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 18 19:04:54 meir-900X5T apachectl[28014]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 18 19:04:55 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 19 10:04:02 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 19 10:04:02 meir-900X5T apachectl[840]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 10:04:02 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 19 10:05:01 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+[0;1;39m-- Reboot --[0m
+févr. 19 10:05:40 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 19 10:05:42 meir-900X5T apachectl[843]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 10:05:42 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 19 10:08:07 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 19 10:08:07 meir-900X5T apachectl[1542]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 10:08:07 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 19 10:08:51 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 19 10:08:52 meir-900X5T apachectl[883]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 10:08:52 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 19 10:13:50 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 19 10:13:50 meir-900X5T apachectl[2634]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 10:13:50 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 19 19:59:21 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 19 19:59:21 meir-900X5T apachectl[13038]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 19 19:59:21 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 20 09:34:53 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 20 09:34:53 meir-900X5T apachectl[992]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 20 09:34:53 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 20 09:41:02 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 20 09:41:02 meir-900X5T apachectl[953]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 20 09:41:02 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 20 11:06:57 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 20 11:06:57 meir-900X5T apachectl[5248]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 20 11:06:57 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 20 19:54:21 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 20 19:54:23 meir-900X5T apachectl[859]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 20 19:54:23 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 20 19:54:47 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 20 19:54:47 meir-900X5T apachectl[1582]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 20 19:54:47 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 08:27:38 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 08:27:38 meir-900X5T apachectl[854]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:27:38 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 08:31:31 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 08:31:31 meir-900X5T apachectl[1567]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:31:31 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 08:32:00 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 08:32:02 meir-900X5T apachectl[833]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:32:02 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 08:34:20 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 08:34:20 meir-900X5T apachectl[1553]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:34:20 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 08:34:57 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 08:34:57 meir-900X5T apachectl[834]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:34:57 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 08:37:52 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 08:37:52 meir-900X5T apachectl[1546]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:37:52 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 08:38:21 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 08:38:21 meir-900X5T apachectl[934]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 08:38:21 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 09:05:22 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 21 09:05:22 meir-900X5T apachectl[3798]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 09:05:22 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 21 15:46:08 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 15:46:08 meir-900X5T apachectl[13567]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 15:46:08 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 17:02:45 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 17:02:47 meir-900X5T apachectl[834]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 17:02:47 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 17:08:21 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 17:08:21 meir-900X5T apachectl[1601]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 17:08:21 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 21 17:08:44 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 21 17:08:44 meir-900X5T apachectl[825]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 17:08:44 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 21 17:27:51 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 21 17:27:51 meir-900X5T apachectl[2605]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 21 17:27:52 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 22 20:07:29 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 22 20:07:29 meir-900X5T apachectl[971]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 22 20:07:29 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 23 18:08:28 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 23 18:08:28 meir-900X5T apachectl[10754]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 18:08:28 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 23 19:14:18 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 23 19:14:18 meir-900X5T apachectl[11842]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 19:14:18 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 23 21:02:16 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 23 21:02:16 meir-900X5T apachectl[845]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:02:16 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 23 21:07:35 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 23 21:07:35 meir-900X5T apachectl[1611]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:07:35 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 23 21:08:04 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 23 21:08:04 meir-900X5T apachectl[862]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:08:04 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 23 21:13:00 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 23 21:13:00 meir-900X5T apachectl[1586]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:13:00 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 23 21:13:25 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 23 21:13:25 meir-900X5T apachectl[823]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:13:25 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 23 21:16:59 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 23 21:16:59 meir-900X5T apachectl[1558]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:16:59 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 23 21:17:36 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 23 21:17:36 meir-900X5T apachectl[940]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 21:17:36 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 23 23:29:51 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 23 23:29:51 meir-900X5T apachectl[4917]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 23 23:29:51 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 24 10:07:33 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 24 10:07:33 meir-900X5T apachectl[958]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 10:07:33 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 24 10:28:13 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 24 10:28:13 meir-900X5T apachectl[3240]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 10:28:14 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 24 10:28:32 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 24 10:28:32 meir-900X5T apachectl[943]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 10:28:32 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 24 10:33:31 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 24 10:33:31 meir-900X5T apachectl[2431]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 10:33:31 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 24 19:47:42 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 24 19:47:42 meir-900X5T apachectl[14985]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 19:47:42 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 24 22:35:59 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 24 22:35:59 meir-900X5T apachectl[891]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 22:35:59 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 24 23:34:38 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 24 23:34:38 meir-900X5T apachectl[4549]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 24 23:34:38 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 25 09:23:39 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 25 09:23:39 meir-900X5T apachectl[896]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 09:23:39 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 25 11:26:06 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 25 11:26:06 meir-900X5T apachectl[3478]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 11:26:07 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 25 19:34:19 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 25 19:34:19 meir-900X5T apachectl[9803]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 19:34:19 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 25 19:39:26 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 25 19:39:26 meir-900X5T apachectl[836]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 19:39:26 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 25 19:53:59 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 25 19:53:59 meir-900X5T apachectl[2324]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 19:54:00 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 25 21:29:15 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 25 21:29:17 meir-900X5T apachectl[856]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 21:29:17 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 25 23:15:35 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 25 23:15:35 meir-900X5T apachectl[7161]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 25 23:15:35 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 26 09:05:19 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 26 09:05:19 meir-900X5T apachectl[834]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 26 09:05:19 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 26 18:35:58 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 26 18:35:58 meir-900X5T apachectl[10903]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 26 18:35:58 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 27 10:22:38 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 27 10:22:38 meir-900X5T apachectl[984]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 27 10:22:38 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 27 10:26:40 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 27 10:26:40 meir-900X5T apachectl[913]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 27 10:26:40 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 27 12:23:36 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 27 12:23:37 meir-900X5T apachectl[4662]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 27 12:23:37 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 28 10:18:38 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 28 10:18:38 meir-900X5T apachectl[16890]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 10:18:38 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 28 10:19:53 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 28 10:19:53 meir-900X5T apachectl[813]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 10:19:53 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 28 10:24:53 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+févr. 28 10:24:53 meir-900X5T apachectl[2950]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 10:24:53 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+févr. 28 12:46:21 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 28 12:46:21 meir-900X5T apachectl[10914]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:46:21 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 28 12:47:25 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 28 12:47:25 meir-900X5T apachectl[831]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:47:25 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 28 12:53:00 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 28 12:53:00 meir-900X5T apachectl[1721]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:53:00 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 28 12:53:22 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 28 12:53:24 meir-900X5T apachectl[824]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:53:24 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 28 12:57:54 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 28 12:57:54 meir-900X5T apachectl[1529]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:57:54 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 28 12:58:25 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 28 12:58:25 meir-900X5T apachectl[828]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 12:58:25 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+févr. 28 15:35:31 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+févr. 28 15:35:31 meir-900X5T apachectl[5385]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 28 15:35:32 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+févr. 29 20:54:28 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+févr. 29 20:54:28 meir-900X5T apachectl[839]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+févr. 29 20:54:28 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 01 00:50:22 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 01 00:50:22 meir-900X5T apachectl[5144]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 00:50:22 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 01 12:24:29 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 01 12:24:31 meir-900X5T apachectl[873]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 12:24:31 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 01 12:50:57 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 01 12:50:57 meir-900X5T apachectl[3348]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 12:50:57 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 01 12:51:16 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 01 12:51:16 meir-900X5T apachectl[925]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 12:51:16 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 01 12:56:16 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+mars 01 12:56:17 meir-900X5T apachectl[2610]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 12:56:17 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+mars 01 13:41:47 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 01 13:41:47 meir-900X5T apachectl[4176]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 13:41:47 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 01 13:42:04 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 01 13:42:04 meir-900X5T apachectl[1117]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 13:42:04 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 01 19:42:34 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 01 19:42:34 meir-900X5T apachectl[8461]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 19:42:34 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 01 23:16:41 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 01 23:16:41 meir-900X5T apachectl[974]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 01 23:16:41 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 02 00:12:58 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 02 00:12:58 meir-900X5T apachectl[3659]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 02 00:12:58 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 02 10:14:04 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 02 10:14:04 meir-900X5T apachectl[842]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 02 10:14:04 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 02 13:50:51 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+mars 02 13:50:51 meir-900X5T apachectl[8540]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 02 13:50:51 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+mars 02 19:44:33 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 02 19:44:33 meir-900X5T apachectl[21570]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 02 19:44:34 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 03 11:14:57 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 03 11:14:57 meir-900X5T apachectl[849]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 11:14:57 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 03 11:45:18 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 03 11:45:18 meir-900X5T apachectl[3225]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 11:45:18 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 03 12:01:46 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 03 12:01:48 meir-900X5T apachectl[824]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 12:01:48 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 03 12:06:47 meir-900X5T systemd[1]: Reloading The Apache HTTP Server.
+mars 03 12:06:47 meir-900X5T apachectl[2598]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 12:06:47 meir-900X5T systemd[1]: Reloaded The Apache HTTP Server.
+mars 03 19:03:34 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 03 19:03:34 meir-900X5T apachectl[10296]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 19:03:34 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 03 20:20:54 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 03 20:20:54 meir-900X5T apachectl[879]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 20:20:54 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 03 20:39:21 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 03 20:39:21 meir-900X5T apachectl[4144]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 20:39:22 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 03 20:58:41 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 03 20:58:41 meir-900X5T apachectl[808]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 20:58:41 meir-900X5T systemd[1]: Started The Apache HTTP Server.
+mars 03 21:01:27 meir-900X5T systemd[1]: Stopping The Apache HTTP Server...
+mars 03 21:01:27 meir-900X5T apachectl[1547]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+mars 03 21:01:27 meir-900X5T systemd[1]: Stopped The Apache HTTP Server.
+[0;1;39m-- Reboot --[0m
+mars 03 21:02:05 meir-900X5T systemd[1]: Starting The Apache HTTP Server...
+mars 03 21:02:05 meir-900X5T apachectl[817]: AH00558: apache2: Could not reliably determine the server

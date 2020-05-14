@@ -1,0 +1,30 @@
+    <?php 
+    // session_start();
+
+class Follow
+{
+    private $tofollow;
+    private $befollow;
+    private $bdd;
+    public function __construct($array = [])
+    {    
+      $this->tofollow = $array['tofollow'] ?? NULL;
+      $this->befollow = $array['befollow'] ?? NULL;
+      $this->bdd = $array['bdd'] ?? NULL;
+    }
+
+    public function push()
+    {
+        $sql = "INSERT INTO abonnement(id_abo,dateAbo,id_user)VALUES(:tofollow,CURDATE(),:befollow)";
+        $req = $this->bdd->prepare($sql);
+        $ret = $req->execute([":tofollow"=>$this->tofollow,":befollow"=>$this->befollow]);
+    }
+}
+try {
+    $bdd = new PDO("mysql:host=localhost;dbname=tweet_academie","root","root");
+
+  }catch(PDOException $e) {
+    die("Error:". $e->getMessage());
+} 
+$check_follow= new Follow(["tofollow"=>"1","befollow"=>"3","bdd"=>$bdd]);
+$check_follow->push();

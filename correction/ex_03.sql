@@ -1,0 +1,1 @@
+select count(titre) as 'Number of movies that start whith "eX"' from film where binary titre like "eX%";

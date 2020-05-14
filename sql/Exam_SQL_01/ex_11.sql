@@ -1,0 +1,1 @@
+select nom as 'Nom du genre', count(id_film) as 'Nombre de films' from film left join genre on genre.id_genre = film.id_genre where nom is not null group by nom order by count(id_film) desc, nom asc;

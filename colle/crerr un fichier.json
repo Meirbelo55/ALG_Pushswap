@@ -1,0 +1,12 @@
+// crerr un fichier json
+// 1) creer un tableau pour le json 
+// 2)ensuite ouvrir les accolades pour l'ensemble dee la recette
+// 3) pour chaque element  om place la proprieter suivi d'un : puis la valeur 
+// par exemple
+[
+
+	{
+		"recipe_id" : 1,
+		"title" : 
+
+}]

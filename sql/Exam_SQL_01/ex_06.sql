@@ -1,0 +1,1 @@
+select count(id_salle)*3 as '3 fois le nombre total de salles' from salle;

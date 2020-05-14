@@ -1,0 +1,1 @@
+SELECT COUNT(id_membre) AS "Nombre de membres", ROUND(AVG(YEAR(NOW()) - YEAR(date_naissance))) AS "Age moyen" FROM membre LEFT JOIN fiche_personne ON membre.id_fiche_perso=fiche_personne.id_perso;

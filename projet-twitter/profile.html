@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Teko:700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script src="veriffollow.js"></script>
+        <script src="changebackground.js"></script>
+        <script src="onglet.js"></script>
+        <script src="script profile/getinfo.js?ver=1.1"></script>
+        <script src="tweet/tweet.js?ver=1.1"></script>
+        <script src="script profile/gettweet.js"></script>
+
+        
+        <link rel="Icon" type="image/png" href="pic/t.png"/> 
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="onglet.css">
+        <title>Welcome</title>
+    </head>
+    <body>    
+        <div class="container height">   
+            <div class="row height">
+                <div class="col-lg-3 d-sm-none d-md-block">
+                    <aside>
+                        <ul>
+                            <li id="lienhome"><div class="icons"><i class="fa fa-home"></div></i><div class="linktitle">Home</div></li>
+                            <li id="lienprofile"><div class="icons"><i class="fa fa-user"></i></div><div class="linktitle">My Profile</div></li>
+                            <li id="liennotif"><div class="icons"><i class="fa fa-bell"></i></div><div class="linktitle">Notifications</div></li>
+                            <li id="lientrend"><div class="icons"><i class="fa fa-hashtag"></i></div><div class="linktitle">Trend</div></li>
+                            <li id="lienchat"><div class="icons"><i class="fa fa-comments"></i></div><div class="linktitle">Chat</div></li>
+                            <li id="liensignets"><div class="icons"><i class="fa fa-bookmark"></i></div><div class="linktitle">Signets</div></li>
+                            <li id="lienedit"><div class="icons"><i class="fa fa-edit "></i></div><div class="linktitle">Edit</div></li>
+                            <li id="logout"><div class="icons"><i class="fa fa-sign-out"></i></div><div class="linktitle">Log-Out</div></li>
+                            <li><div class="icons"><i class="fa fa-adjust"></i> </div><div class="linktitle"> Night mode <label class="switch">
+                                <input type="checkbox">
+                                <span id="switch" class="slider round"></span>
+                              </label></div></li>
+                        </ul>
+                    </aside>
+                </div>
+                <div class="col-lg-6">
+                        <div class="rowprofil">
+                                <div class="fb-profile">
+                                    <img align="left" class="fb-image-lg image-responsive" src="https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/OTB_Company_Blue.png.img.fullhd.medium.png" alt="Profile image example"/>
+                                    <img align="left"  class="fb-image-profile thumbnail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAYFBMVEVWm9P///9QmNJNl9FJldH7/f7Z6PXw9vvp8fn2+v1ZndTf6/bV5fNqpthxqtnG2++51OyYwONgodakx+bB2O7O4PGvzeiixeV9sNxmpNeFtd6xz+qMuOCVvuLK3/GPvOGL+luNAAAEvUlEQVR4nO2d65KCMAyFIUURFEHwftv3f8uFZR1YFeWSyM5pvhn/0zNpkiZpdRxFURRFURRFURRFURRFUZSPQGR+oLE/5L9DxjPLy2kdx8luH3oqWDMU7rOpW+En54PK9RQyq43v3jHdRmbsD/t/kHOeT+6lKgi2qVrXX2i/eaZUuRt3ocpVQbR92IB1Nkvdizcomr6SKmeyGvsb/wvm8tKsShL1XAXe6qljv2fqqFpOmLSRKme2tF4ts26pVa7W3nY339auCvzIatsK29vVj1p7i9XyTp20yneivbZFu1ZxsM7c1mSevoKuWuXJfDr2Z48CpS1y0UdOVobE8N0Zp4EvGzdil6ShjoUhkc6dnfsN+9xW2Fur/FDtjf31Hybur5Xr2rURqV2loYm5VRsxmg3RKt+IYy/gg3h9I+GNwJ5yDe0HauW6U2tS03AxWCx3ZYlp0dcg714yP4y9jM+QDvTuJScrTMusOLRyfTtMi8Ww7Cg/0JZHKzewoGp6mDOJ5SbwYtGOSysLGonE5LEK0AMiQ/JeEYy9GmGoZy35OTvogEjHHg2dZuZjr0cUGlpu+EsA3bxYMrr3gms49orkIJ6TToUPnD14rO69IMN18QdurVwfttFjMnaxXNh9GLIdCyvWoPuQOckqmYF2xdiKM3WCM+Y+TNljYQFmC5GWDH2KRzC70+wZ6S+Q8dBj6BY+YwsZDwViYcEcMC+lo4xW7gSwJ2Z4qzM1LoBOS8hlISbxxF3KqsBLHgYM3L4Db3yZBCoON/Cc1lVOLLjWdCjmslx3MfbiuEnltHIDsLaFWEr6A9g8jURFuQKsfegJ+vfcw2OlpUbQv+ceHussHfa6iNkWH2ob0l6oPlMSRGMvkBOW0fcXYh2RTEs2GLoTqPsWcsWsEqgxbxp0F/M9UCWtsPmROhauYy+Qk1SsTFqyQDodHkSa0RVTpGJpJDA/U2eOlGgtVaz2yHUrSmYqVgexlmOvkBEVqwMqVgfEoyGSWHw3MhvEQnLwMhOSFVOkSRqOZy9esUDK4CX70QUbpLNhh0eBexFDFf8kRuBrQPXCBj4u9o4J1P1f4e7OBOuaRb8HXNsC9vaYbEfaH3t5vMiGQ7D2vdRdlBK0SxaRpFhoE7iSY5IB1GGnQNBpwc2U0kVOrAxsF0resMCaoSkR6+BDdVhL5PYh1AjNL6HU8RDrrFMiNaMFlr6XCN2+d7EqDjdkhrRAnwyhs4TXgkuybgj0eKBGQuqwvrv5C+5rYx671/JhtRIoxa9wxXKo6x8avgGqufpAyjohEqBV/f7Ce6MVrZx8D2dvegGuFef9Afz34B2KmPqtE7Cb0U/hyh8yxGrDAzxTIuuxl/EhODqua+gMq46XDbWtK3wgrDFQrRiziNWAGfR08NaCOFjHHHv3EQM74mAdinrWa3zAnupbyMt6pKeT2LFQK6dITzsb1+xiTcpwD4WrTp4rSA52mlWJcU6t5QqukXWe/Q6KslZyTZK9pd6qDlF43ASvk9RgvktJpfqBvGh3bbQvf3E6GpuON28xTnTcbh5yiWCafC1To0Z1DxnjUXRcbZN1HMfJKTsvQ88zuv2aoVyzXLX8RyqToiiKoiiKoiiKoiiKoiif4RuNcUM5CPE7xAAAAABJRU5ErkJggg==" 
+                                    alt="Profile image example"/>
+                                    <div class="fb-profile-text">
+                                        <h1 id="fullname">Eli Macy</h1>
+                                        <p id="username">@@@@@@@@</p>
+                                        <p id="bio">Girls just wanna go fun.</p>
+                                        <i id="ville" class="fa fa-map-marker"> Paris </i> 
+                                        <i id="inscription" class= "fa fa-calendar"> Date </i>
+                                        <p id="Abonnement"> Abonnement </p>
+                                        <p id="abonne"> Abonnés </p>
+                                        
+                                    </div>
+                                </div>
+                                <section class="wrapper">
+                                    <ul class="tabs">
+                                        <li class="active">Tweet</li>
+                                        <li class="">Réponse</li>
+                                        <li>Média</li>
+                                        <li>J'aime</li>
+                                    </ul>
+                                    <ul class="tab__content">
+                                        <li class="active">
+                                            <div id="tweetpar" class="content__wrapper">
+                                                <div class="container-fluid" id="div" style="color : black">
+                                                    <textarea id="tweet" type="text" maxlength ="140" class="col-lg-12" name="new_message"
+                                                    placeholder="Type in your message"></textarea>
+                                                    <button class="btn btn-info" id="send" value="send tweet">Post New Message</button>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="content__wrapper">
+                                                Reponse
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="content__wrapper">
+                                                Media
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="content__wrapper">
+                                                J'aime
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </section>
+                        </div>
+                    </div> 
+                <div class="col-lg-3 bordure">
+                    <aside2>
+                        <form class="cherche">
+                            <input type="search" placeholder="Search">
+                        </form>
+                    </aside2>
+                    
+                </div>
+                </div>
+            </div>
+        </div>
+</body>
+</html>

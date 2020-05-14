@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Teko:700&display=swap" rel="stylesheet">
+        <link rel="Icon" type="image/png" href="pic/t.png"/>
+        <script src="script index/register.js"></script>
+        <script src="script index/login.js?ver=1.1"></script>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <title>HOME</title>
+    </head>
+    <body>
+
+    
+    <div class="row bg-primary">
+            <div class="col-lg-4">
+                <img class="img"  src="pic/logo.png"/> 
+                <h2 class="text-white">Tweet Academie</h2>
+            </div>
+            <div class="col-lg-1">
+                <label for="exampleInputEmail1">Identifiant</label>
+            </div>
+            <div class="col-lg-2 form-group">
+                <input id="emaillogin" class="form-control">
+                <span id="erreurloginemail" class="text-danger">Veuillez renseigner une Email</span>
+                <span id="erreurloginemail2" class="text-danger">Mot de passe ou email incorrect</span>
+            </div>
+            <div class="col-lg-1">
+                <label for="exampleInputEmail1">Mot de passe</label>
+            </div>
+            <div class="col-lg-2 form-group">
+                <input id="mdplogin" class="form-control" type="password">
+                <span id="erreurloginmdp" class="text-danger">Veuillez renseigner un mot de passe</span>
+                <span id="erreurloginmdp2" class="text-danger">Mot de passe ou email incorrect</span>
+            </div>
+            <div class="col-lg-2 form-group">
+                <button id="login" class="btnlogin">LOGIN</button>
+            </div>        
+    </div>
+   <br> 
+  
+    <div id = "form" >
+        <h1>INSCRIVEZ-VOUS</h1>
+        <div>
+        <input id="nom" name="" class="form-control" placeholder="Nom & Prénom" type="name">
+        <span id="erreurnom" class="text-danger">Veuillez renseigner un nom & prénom</span>
+        </div>
+
+        <div> 
+        <input id="pseudo" name="" class="form-control" placeholder="Pseudo" type="text">
+        <span id="erreurpseudo" class="text-danger">Veuillez renseigner un pseudo</span>
+        <span id="erreurpseudo2" class="text-danger">Ce pseudo est deja prit</span>
+        </div>
+
+        <div> 
+        <input id="email" name="email" class="form-control" placeholder="Adresse email" type="email">
+        <span id="erreuremail" class="text-danger">Veuillez renseigner une adresse E-Mail valide</span>
+        <span id="erreuremailpris" class="text-danger">Cet email est deja utilise</span>
+        </div>
+
+        <div> 
+        <input id="bdate" name="bday" class="form-control" placeholder="date de naissance" type="date">
+        <span id="erreurbday" class="text-danger">Veuillez renseigner une Date de naissance et avoir plus de 18 ans</span>
+        </div> 
+
+        <div> 
+        <input id="ville" name="" class="form-control" placeholder="Ville" type="name">
+        <span id="erreurville" class="text-danger">Veuillez renseigner une ville</span>
+        </div>
+
+        <div>
+        <input id="telephone" name="" class="form-control" placeholder="numero de telephone" type="tel">
+        <span id="erreurtel" class="text-danger">Veuillez renseigner un numero de telephone commencant par +33(6) ou 0(6)</span>
+        </div> 
+        
+        <div> 
+        <input id="password1" class="form-control" placeholder="Create password" type="password">
+        <span id="erreurpw1" class="text-danger">Veuillez renseigner un mot de passe qui contient au moins: 1 majuscule, 1 minuscule, 1 chiffre, 1 charactere special et faisant au moins 8 characteres de long</span>
+        <span id="erreurpw3" class="text-danger">Veuillez renseigner le meme mot de passe</span>
+        </div> 
+
+        <div> 
+        <input id="password2" class="form-control" placeholder="Repeat password" type="password">
+        <span id="erreurpw2" class="text-danger">Veuillez renseigner un mot de passe qui contient au moins: 1 majuscule, 1 minuscule, 1 chiffre, 1 charactere special et faisant au moins 8 characteres de long</span>
+        <span id="erreurpw4" class="text-danger">Veuillez renseigner le meme mot de passe</span>
+        </div>                             
+            
+        <div class="form-group">
+        <button id="submit" class="btn btn-primary btn-block"> Create Account </button>
+        </div> 
+
+        <center> <a href="https://twitter.com/fr/tos"> En savoir plus...</a> <center> 
+               
+           
+        
+    </div>
+    
+
+    </body>
+</html>

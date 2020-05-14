@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8"/>
+    <title>Folder view</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel = "stylesheet" href="htpps://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css>">
+        <link href="metisMenu.min.css" rel = "stylesheet"/>
+        <link href="mm-folder.css" rel = "stylesheet"/>
+
+
+</head>
+<body>
+    <div class="container mt-2">
+        <div class="row">
+            <div class="col-md-3">
+                <nav class="nav">
+                    <ul class="metisFolder metismenu">
+                        <li>
+                            <a href="#"><span class="fa fa-fw fa-folder-o"></span> Root</a>
+                            <ul>
+                                <li><a href="#"><span class="fa fa-fw fa-file"></span>file 1</a></li>
+                                <li><a href="#"><span class="fa fa-fw fa-folder-o"></span>Folder Office</a></li>
+                                <ul>
+                                    <li>
+                                        <a href="#"><span class="fa fa-fw fa-file-word-o text-primary"></span>file Word</a>
+                                        <a href="#"><span class="fa fa-fw fa-file-excel-o text-success"></span>file Excel</a>
+                                        <a href="#"><span class="fa fa-fw fa-file-powerpoint-o text-danger"></span>file PowerPoint</a>
+                                    </li>
+                                </ul>
+                        </li>
+                               <li>
+                                   <a href="#"><span class="fa fa-fw fa-folder-o"></span>Folder Media</a>
+                            <ul>
+                                <li>
+                                    <a href="#"><span class="fa fa-fw fa-file-image-o"></span>file Image</a>
+                                    <a href="#"><span class="fa fa-fw fa-file-video-o"></span>file Video</a>
+                                    <a href="#"><span class="fa fa-fw fa-file-audio-o"></span>file Audio</a>
+                                </li>
+                            </ul>
+                           </li>
+                                <li><a href="#"><span class="fa fa-fw fa-file-o"></span>file 2</a></li>
+                                <li><a href="#"><span class="fa fa-fw fa-file-zip-o"></span> file zip</a></li>
+                                <li><a href="#"><span class="fa fa-fw fa-file-pdf-o"></span>file PDF</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="htpps://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="htpps://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="methisMenu.min.js"></script>
+    <script>
+        $('.metisFolder').metisMenu({
+            toggle:false
+        })
+    </script>
+</body>
+    </html>

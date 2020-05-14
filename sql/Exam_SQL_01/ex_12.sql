@@ -1,0 +1,1 @@
+select (count(film.titre)) from film left join genre using(id_genre) left join distrib using(id_distrib) where genre.nom="western" and distrib.nom in("tartan films","lionsgate uk") or titre like "T%";
