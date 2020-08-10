@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1a84ca-3400-4eb3-86d8-26654d6297c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ALG_BSQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALG_Pushswap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALG_Pushswap/.idea/ALG_Pushswap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALG_Pushswap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALG_Pushswap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALG_Pushswap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Donkey Geek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/20180608_094022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/20180608_094024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/20180608_094409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/20180608_094411.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/ErrorBoundaries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/Frieza.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/Goku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/Vegeta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/addHits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/frieza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/goku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/handleClick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/paintball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/Component/vegeta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Error-Boudaries/erreurtest/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/Component/Refs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refs/refs/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/github/marvel-quiz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/Components/Acceuil/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/Components/App/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/Components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/Components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/batman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/bg-noise-texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/deadpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/griffes-droit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/griffes-gauche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/ironman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/spiderman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/wolverine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/images/xmen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appreact/my_quizz/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../context/context/src/Component/firstComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../destructuring-react/destructuring-app/src/Component/PersonList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommercelaravel/BlogLaravel/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/blog/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method-rare/methodrare/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/FunctionComp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/ParentComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/PureComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/SimpleComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/affichageForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/formhook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/getSale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/Component/Component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/Component/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/Component/editcommande.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portails/portails/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/Community.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/Docs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/Error404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/Tutorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/Component/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Entretien/discussion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Entretien/display.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_06.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_07.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Piscine/ex_10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/laravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/reactjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/public/symfony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/CV-Meir_belaich/CV_Belaich_meir.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Competences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Coordonnes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Hobbies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/PictureProfil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Presentation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/laravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/meir_belaich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/reactjs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/picture/symfony.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/dart-sass/sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/dart-sass/src/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/dart-sass/src/dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/dart-sass/src/sass.snapshot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/Component/stylessass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Portfolio/portfoliomeir/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce-4/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/dart-sass/sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/dart-sass/src/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/dart-sass/src/dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/dart-sass/src/sass.snapshot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/library/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/library/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass-tuto/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grafikart-tuto/sass/sass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/dist/email.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/dist/email.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/gulpfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/jest.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/models/EmailJSResponseStatus.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/models/EmailJSResponseStatus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/services/ui/UI.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/source/services/ui/UI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/src/index.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/src/models/EmailJSResponseStatus.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/src/services/ui/UI.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/src/services/ui/UI.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/emailjs-com/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/dist/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/dist/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/dist/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/dist/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/extras/noUiSlider/nouislider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/extras/noUiSlider/nouislider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/extras/noUiSlider/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/anime.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/cash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/characterCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/chips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/collapsible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/forms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/materialbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/pushpin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/sidenav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/tapTarget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/toasts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/js/waves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_chips.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_collapsible.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_color-classes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_color-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_icons-material-design.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_materialbox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_preloader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_pulse.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_sidenav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_table_of_contents.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_tapTarget.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_timepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_toast.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/_waves.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_checkboxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_file-input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_input-fields.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_radio-buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_range.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/components/forms/_switches.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../node_modules/materialize-css/sass/materialize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destructuring-react/destructuring-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../destructuring-react/destructuring-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destructuring-react/destructuring-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../destructuring-react/destructuring-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destructuring-react/destructuring-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../destructuring-react/destructuring-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodrare/methoderare/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/MyComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/Component/MyComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodrare/methoderare/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../methodrare/methoderare/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exam_SQL_03" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exam_SQL_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC_Free_Ads" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC_Free_Ads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC_My_Quiz" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC_My_Quiz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC_PiePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC_PiePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Piscine_MERN_jour_01" beforeDir="false" afterPath="$PROJECT_DIR$/../../Piscine_MERN_jour_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css_generator" beforeDir="false" afterPath="$PROJECT_DIR$/../../css_generator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css_generatorr" beforeDir="false" afterPath="$PROJECT_DIR$/../../css_generatorr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-4/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-4/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-4/.idea/ecommerce-4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-4/.idea/ecommerce-4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-4/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-4/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-4/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-4/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-4/ecommerceServer" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-4/ecommerceServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-project/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-project/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-rush-2/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-rush-2/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-rush-2/ecommerceserver" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-rush-2/ecommerceserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-rush-3/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-rush-3/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ecommerce-rush-3bis/ecommerceServer" beforeDir="false" afterPath="$PROJECT_DIR$/../../ecommerce-rush-3bis/ecommerceServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maquette-introduction" beforeDir="false" afterPath="$PROJECT_DIR$/../../maquette-introduction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../memo" beforeDir="false" afterPath="$PROJECT_DIR$/../../memo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_cinema" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_cinema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_h5aibla" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_h5aibla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_ircblb" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_ircblb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my_meetic" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_meetic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../puissance4" beforeDir="false" afterPath="$PROJECT_DIR$/../../puissance4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../racingjs" beforeDir="false" afterPath="$PROJECT_DIR$/../../racingjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rush_spotify" beforeDir="false" afterPath="$PROJECT_DIR$/../../rush_spotify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sujet-projets/Exam_SQL_05" beforeDir="false" afterPath="$PROJECT_DIR$/../../sujet-projets/Exam_SQL_05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/my_h5ai" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/my_h5ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testecommerce/ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../testecommerce/ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testecommerce/ecommerceserver" beforeDir="false" afterPath="$PROJECT_DIR$/../../testecommerce/ecommerceserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testsymphony/my_project_name" beforeDir="false" afterPath="$PROJECT_DIR$/../../testsymphony/my_project_name" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1f2Ma0WUBMTS1mv88ocei0KJkOs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../context" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1a84ca-3400-4eb3-86d8-26654d6297c7" name="Default Changelist" comment="" />
+      <created>1595411793297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595411793297</updated>
+      <workItem from="1595411794422" duration="1045000" />
+      <workItem from="1596970240981" duration="1535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596971174542">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="258" y="311" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1596971174542" />
+  </component>
+</project>

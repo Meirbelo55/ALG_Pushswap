@@ -33,9 +33,14 @@
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/laravel/tinker" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/league/commonmark" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/maatwebsite/excel" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/markbaker/matrix" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/mockery/mockery" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/myclabs/php-enum" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/nesbot/carbon" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/nikic/php-parser" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/nunomaduro/collision" />
@@ -45,6 +50,7 @@
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpdocumentor/reflection-common" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpdocumentor/reflection-docblock" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpoffice/phpspreadsheet" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpoption/phpoption" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpspec/prophecy" />
       <excludeFolder url="file://$MODULE_DIR$/ecommerceServer/vendor/phpunit/php-code-coverage" />

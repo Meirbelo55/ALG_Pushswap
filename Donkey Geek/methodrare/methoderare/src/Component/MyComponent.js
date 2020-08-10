@@ -8,18 +8,36 @@ class MyComponent extends Component {
       this.state = {
          name : 'meir'
       }
-      console.log('je suis ds le contructor');
+         console.log('je suis ds le contructor');
    }
 
   static getDerivedStateFromProps(props,state) {
-     console.log('getderive');
+     console.log('%c getderive lance','color:red;background:yellow;font-size:30px;');
+
+     console.log(props);
+     console.log(state);
+
      return null;
   }
-   render() {
+  shouldComponentUpdate(nextProps,nextState) {
+     console.log('je suis ds sould componetupdate')
+     return true;
+  }
 
+  forceChange = ()=>{
+     this.forceUpdate(()=> {
+        console.log('i frce the change');
+     })
+
+  }
+
+   render() {
+      console.log('je suis ds le render')
       return(
          <div>
-            hello world
+            <p>nom : {this.state.name}</p>
+            <p>age : {this.props.age}</p>
+            <button onClick={this.forceChange}>forcer</button>
          </div>
       )
    }

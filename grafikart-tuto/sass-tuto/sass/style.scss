@@ -1,0 +1,84 @@
+$medium: 890px;
+@import './library/reset.scss';
+@import './library/responsive.scss';
+$primary:#FF0000;
+$padding: 20px;
+body {
+   background:#ccc;
+   padding: 20px + 20px;
+   font-family:sans-serif;
+}
+.table {
+   width: 100%;
+   td{
+      border:  1px solid #ccc;
+   }
+   thead {
+      background: {
+         color: #000;
+         repeat: no-repeat;
+      }
+      color: #FFF;
+   }
+   thead  th {
+    background: green;
+   }
+}
+%btn {
+   border-radius: 20px;
+   padding: 100px;
+}
+   .btn {
+      @extend %btn;
+      border-radius: 3px;
+      padding: 5px 12px;
+      background:green;
+      &:hover {
+         background:greenyellow;
+      }
+      .theme-vert & {
+         background: green;
+      }
+      @media screen and (max-width: 1200px) {
+         padding: 10px;
+         
+      }
+   }
+.call-to-action {
+   @extend .btn
+
+}
+%shadow {
+     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
+}
+.card {
+   padding: 10px;
+   @extend %shadow;
+   border-radius: 3px;
+}
+.card-action {
+   @extend .btn;
+}
+.card-cancel {
+   @extend .btn-danger;
+   @extend %shadow;
+}
+.card-actions {
+   display: flex;
+}
+.btn-danger {
+   @extend .btn;
+   color: black;
+   background:red;
+   &:hover {
+      background: darken($primary,20);
+   }
+}
+@media #{$medium-down} {
+   .card-actions {
+    display: block;  
+   }
+   .btn {
+      width:100%;
+   }
+}

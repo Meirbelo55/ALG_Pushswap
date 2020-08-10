@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appreact/my_quizz/github/marvel-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appreact/quizz/marvel-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/marvel-quiz" vcs="Git" />
+  </component>
+</project>

@@ -104,6 +104,12 @@
       <path value="$PROJECT_DIR$/ecommerceServer/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/ecommerceServer/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/ecommerceServer/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/ecommerceServer/vendor/maennchen/zipstream-php" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
